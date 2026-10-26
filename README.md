@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ecere Corporation is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://ecere.ca
+Ecere Corporation is a graphics software company founded in 2005, based in Canada. It develops the Ecere SDK and related tools for creating cross‑platform applications and games. The company’s website showcases its products, provides documentation, and offers downloads for developers interested in leveraging its graphics engine and development framework.
+
+**Areas:** Company · Graphics · Software · SDK · Development
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://ecere.ca)
+- [Documentation](http://ecere.ca/gnosis/)
+- [API reference](http://ecere.ca/gnosis/)
+- [GitHub](https://github.com/ecere)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ecere-corporation/](https://apis.io/providers/ecere-corporation/).
